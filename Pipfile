@@ -11,3 +11,6 @@ flask-sqlalchemy = "*"
 
 [requires]
 python_version = "3.12"
+
+[scripts]
+start = "python app.py"
